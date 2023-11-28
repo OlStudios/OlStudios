@@ -1,6 +1,6 @@
 - 👋 Olá, sou Victor Oliveira Silva.
 - 👀 Estou interessado em Tecnologia da Informação.
-- 🌱 Atualmente estou aprendendo fundamentos de cybersegurança.
+- 🌱 Atualmente estou aprendendo fundamentos de Design de Jogos.
 - 💞️ Estou procurando aprender mais e mais.
 - 📫 Como me encontrar: entre em contato comigo pelo victor.osilvadti@gmail.com.
 - 👨‍💻 Vou postar meus projetos neste portfólio chamado @OlStudios.
